@@ -42,7 +42,8 @@ A coffee vending machine is designed to dispense coffee to customers automatical
 | D             | 11          | A          | 1      | 11      |
 
 ## State Diagram
-![State Diagram](path_to_your_state_diagram_image)
+![state diagram](https://github.com/YASHWANTHKR/Coffee-vending-machine/blob/main/state%20diagram.jpg)
+
 
 ## Usage
 1. Insert currency into the vending machine.
